@@ -21,6 +21,7 @@ document.getElementById("myButton").addEventListener("click", () => {
   alert("2 + 2 = 4");
 });
 
+
 // Show a message when the user clicks on the button
 document.getElementById("myButton2").addEventListener("click", () => {
   alert("1492");
@@ -30,3 +31,4 @@ document.getElementById("myButton2").addEventListener("click", () => {
 document.getElementById("myButton3").addEventListener("click", () => {
   alert("The Letter E");
 });
+
